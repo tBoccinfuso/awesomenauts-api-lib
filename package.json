@@ -1,0 +1,16 @@
+{
+  "name": "awesomenauts-api-lib",
+  "version": "1.0.0",
+  "description": "Awesomenauts API library",
+  "main": "./nautsApiLib.js",
+  "keywords": [
+    "awesomenauts",
+    "api",
+    "lib"
+  ],
+  "author": "Thomas Boccinfuso",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
