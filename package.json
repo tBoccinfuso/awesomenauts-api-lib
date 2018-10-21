@@ -1,6 +1,6 @@
 {
   "name": "awesomenauts-api-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Awesomenauts API library",
   "main": "./nautsApiLib.js",
   "keywords": [
